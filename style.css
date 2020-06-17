@@ -1,8 +1,25 @@
 .container{
-    padding-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.custom{
+    width: 100%;
+    height: 80px;
+   
+}
+.custom2{
+    border: none;
+    border-radius: 10px;
+    width: 60px;
+    text-align: center;
+}
+.navber-custom{
+font-size: 15px;
+ text-align: end;
 }
 .orange-bg{
     background-color: #FEEAE9;
+    border-radius: 10px;
 }
 .carousel-item{
     padding: 20px 40px;
@@ -48,4 +65,93 @@
 }
 .categories img{
     width: 100px;
+}
+
+.shoes {
+background-color: #F8F9FA;
+width: 100%;
+
+}
+.Shoes1{
+padding-top: 50px;
+padding-bottom: 30px;
+
+}
+
+.shoes h4 {
+    text-align: right;
+    color: yellow;
+}
+
+.card {
+    text-align: center;
+    border-radius: 10px;
+   background-color: white;
+   border: none;
+   border-radius: 15px;
+   padding-top: 20px;
+   padding-bottom: 5px;
+}
+.backpack{
+    background-color: #F8F9FA;
+    width: 100%;
+
+}
+.backpack1{
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+}
+.backpack h4{
+    text-align: right;
+    color: yellow;
+}
+.buy-now-button1{
+    background-image: linear-gradient(to bottom, #0f0f0f 0%,#0c0a0b  100%);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
+.card h2{
+    font-size: 25px;
+    font-weight: 500;
+}
+.card p{
+    font-size: 18px;
+    color: lightgrey;
+}
+
+.card-footer{
+    background-color: white;
+    border: none;
+}
+
+.doler1{
+    font-size: 20px;
+}
+.footer {
+    background-color: #FEEAE9;
+    text-align: center;
+    padding: 80px;
+   
+    border-radius: 20px;
+
+}
+.email-sender{
+   border: none;
+  border-radius: 20px;
+    padding: 9px 25px;
+}
+.Send-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%,#FF136F  100%);
+   color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 1px;
+}
+.form-control{
+    margin: 0 auto;
 }
